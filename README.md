@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**jackrobert916/jackrobert916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
+**jackrobert916/jackrobert916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 @@ -12,15 +12,22 @@ I´m jackrobert
   [PhpStorm](https://img.shields.io/badge/-PhpStorm%20IDEA-black?style=flat-square&logo=phpstorm)
@@ -27,3 +27,4 @@
 
 
 ## ⚡ GitHub Stats
+--!>
