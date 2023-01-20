@@ -33,6 +33,6 @@ I´m fullstack developer
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=balajidharma&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajidharma&layout=compact&count_private=true&theme=gruvbox" />
 <br/>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=balajidharma.balajidharma)
+
 ## Found my profile interesting and help you on anything?
 <a href="https://www.buymeacoffee.com/itsbalajid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
