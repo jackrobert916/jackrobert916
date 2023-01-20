@@ -4,11 +4,11 @@
 **jackrobert916/jackrobert916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 @@ -12,15 +12,22 @@ I´m jackrobert
-  ![PhpStorm](https://img.shields.io/badge/-PhpStorm%20IDEA-black?style=flat-square&logo=phpstorm)
-  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+  [PhpStorm](https://img.shields.io/badge/-PhpStorm%20IDEA-black?style=flat-square&logo=phpstorm)
+  [Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=square&logo=react)
-  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+  [React](https://img.shields.io/badge/-React-3b2e5a?style=square&logo=react)
+  [Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
