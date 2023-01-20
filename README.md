@@ -12,7 +12,7 @@
   ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysCancel changesql)
   ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=square&logo=postgresql)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=square&logo=amazon-aws)
